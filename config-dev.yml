@@ -1,8 +1,7 @@
-server:
-  port:4141
+server:4141
 
 config:
   info:ymx at now
 
 music:
-  people:wanglihaon
+  people:wanglihaon232
