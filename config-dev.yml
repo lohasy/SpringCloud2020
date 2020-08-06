@@ -1,7 +1,7 @@
-server:4141
+server : 4141
 
-config:
-  info:ymx at now
+config :
+  info : ymx at now
 
 music:
-  people:wanglihaon232
+  people : wanglihaon232
